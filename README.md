@@ -3,7 +3,7 @@
 ### Template
 
 ```markdown
-# mundo das IAs generativas
+# Mundo das IAs generativas
 
 ## 📒 Descrição
 Breve descrição do seu projeto
