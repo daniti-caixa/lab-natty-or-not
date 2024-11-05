@@ -3,7 +3,7 @@
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# mundo das IAs generativas
 
 ## 📒 Descrição
 Breve descrição do seu projeto
