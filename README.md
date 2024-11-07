@@ -13,12 +13,15 @@ Desenvolvemos um podcast de 3 minutos para refletir sobre a importância da IA p
 -	Software read-this.ai para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
+<p align='justify'>
 Utilizamos o "Microsoft Copilot" para desenvolver o roteiro e aprimorar a narrativa do podcast. Depois o "Microsoft Word" para editar e documentar as informações e por último o "read-this.ai" que foi essencial para a edição final, garantindo a edição do texto para áudio de alta qualidade.
 
 ## 🚀 Resultados
+<p align='justify'>
 O episódio do podcast traz uma abordagem introdutória sobre a utilização da IA no setor industrial, salientando não só melhoria da eficiência e produtividade, como as inovações e avanços para as indústrias.
 
 ## 💭 Reflexão (Opcional)
+<p align='justify'>
 O projeto proporcionou não só entender a importância da AI no processo de automatização nas indústrias como também o desafio para a criação do podcast utilizando tecnologias de AI. Conseguimos!!!💙
 ```
 
