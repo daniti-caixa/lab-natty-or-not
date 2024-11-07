@@ -8,19 +8,19 @@ Desenvolvemos um podcast de 3 minutos para refletir sobre a importância da IA p
 </p>
 
 ## 🤖 Tecnologias Utilizadas
--	IA Generativa Microsoft Copilot para roteirização e revisão;
--	Software Microsoft Word para documentar a estrutura do projeto;
--	Software read-this.ai para edição e montagem do podcast.
+-	IA Generativa **[Microsoft Copilot](https://www.microsoft.com/pt-br/microsoft-copilot/organizations)** para roteirização e revisão;
+-	Software **[Microsoft Word](https://www.microsoft.com/pt-br/microsoft-365/p/word/cfq7ttc0hlkm)** para documentar a estrutura do projeto;
+-	Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
 <p align='justify'>
-Utilizamos o "Microsoft Copilot" para desenvolver o roteiro e aprimorar a narrativa do podcast. Depois o "Microsoft Word" para editar e documentar as informações e por último o "read-this.ai" que foi essencial para a edição final, garantindo a edição do texto para áudio de alta qualidade.
+Utilizamos o "Microsoft Copilot" para desenvolver o roteiro e aprimorar a narrativa do podcast. Depois o "Microsoft Word" para editar e documentar as informações e por último o "Descript" que foi essencial para a edição final, garantindo a edição do texto para áudio de alta qualidade.
 
 ## 🚀 Resultados
 <p align='justify'>
 O episódio do podcast traz uma abordagem introdutória sobre a utilização da IA no setor industrial, salientando não só melhoria da eficiência e produtividade, como as inovações e avanços para as indústrias.
 
-# 🎙️[ESCUTE O PODCAST ⏯️](https://github.com/daniti-caixa/lab-natty-or-not/blob/main/20241106-2348_automatizao_de_processos_com_ia_na_indstria.mp3)
+# 🎙️[ESCUTE O PODCAST ⏯️](https://share.descript.com/view/KAEoMCRAyU8)
 
 ## 💭 Reflexão (Opcional)
 <p align='justify'>
