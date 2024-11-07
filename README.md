@@ -1,6 +1,5 @@
 > ## APRESENTAÇÃO DO PROJETO PERSONALIZADO 💪🤓
 
-```markdown
 # 🔉 Podcast - IA para automatizar processos na Indústria
 
 ## 📒 Descrição
