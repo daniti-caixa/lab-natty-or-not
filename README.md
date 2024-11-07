@@ -1,12 +1,14 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+> ## APRESENTAÇÃO DO PROJETO PERSONALIZADO 💪🤓
 
 ### Template
 
 ```markdown
-# Podcast - IA para automatizar processos na Indústria
+# 🔉 Podcast - IA para automatizar processos na Indústria
 
 ## 📒 Descrição
-Desenvolvemos um podcast de 3 minutos para refletir sobre a importância da IA para a indústria e seus benefícios. 
+<p align='justify'>
+Desenvolvemos um podcast de 3 minutos para refletir sobre a importância da IA para a indústria e seus benefícios.
+</p>
 
 ## 🤖 Tecnologias Utilizadas
 •	IA Generativa Microsoft Copilot para roteirização e revisão;
