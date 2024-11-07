@@ -18,7 +18,7 @@ Utilizamos o "Microsoft Copilot" para desenvolver o roteiro e aprimorar a narrat
 
 ## 🚀 Resultados
 <p align='justify'>
-O episódio do podcast traz uma abordagem introdutória sobre a utilização da IA no setor industrial, salientando não só melhoria da eficiência e produtividade, como as inovações e avanços para as indústrias.
+O episódio do podcast traz uma abordagem introdutória sobre a utilização da IA no setor industrial, salientando não só melhoram sua eficiência e produtividade, como abrem caminhos para as inovações e avanços para as indústrias.
 
 # 🎙️[ESCUTE O PODCAST ⏯️](https://share.descript.com/view/KAEoMCRAyU8)
 
