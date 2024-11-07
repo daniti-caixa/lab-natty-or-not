@@ -1,6 +1,6 @@
-> ## APRESENTAÇÃO DO PROJETO PERSONALIZADO 💪🤓
+> ## APRESENTAÇÃO DO PROJETO 🤓
 
-# 🔉 Podcast - IA para automatizar processos na Indústria
+# 🔉 Podcast - IA para Automatizar Processos na Indústria
 
 ## 📒 Descrição
 <p align='justify'>
