@@ -8,9 +8,9 @@ Desenvolvemos um podcast de 3 minutos para refletir sobre a importância da IA p
 </p>
 
 ## 🤖 Tecnologias Utilizadas
-•	IA Generativa Microsoft Copilot para roteirização e revisão;
-•	Software Microsoft Word para documentar a estrutura do projeto;
-•	Software read-this.ai para edição e montagem do podcast.
+-	IA Generativa Microsoft Copilot para roteirização e revisão;
+-	Software Microsoft Word para documentar a estrutura do projeto;
+-	Software read-this.ai para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
 Utilizamos o "Microsoft Copilot" para desenvolver o roteiro e aprimorar a narrativa do podcast. Depois o "Microsoft Word" para editar e documentar as informações e por último o "read-this.ai" que foi essencial para a edição final, garantindo a edição do texto para áudio de alta qualidade.
