@@ -20,6 +20,8 @@ Utilizamos o "Microsoft Copilot" para desenvolver o roteiro e aprimorar a narrat
 <p align='justify'>
 O episódio do podcast traz uma abordagem introdutória sobre a utilização da IA no setor industrial, salientando não só melhoria da eficiência e produtividade, como as inovações e avanços para as indústrias.
 
+# 🎙️[ESCUTE O PODCAST ⏯️](https://github.com/daniti-caixa/lab-natty-or-not/blob/main/20241106-2348_automatizao_de_processos_com_ia_na_indstria.mp3)
+
 ## 💭 Reflexão (Opcional)
 <p align='justify'>
 O projeto proporcionou não só entender a importância da AI no processo de automatização nas indústrias como também o desafio para a criação do podcast utilizando tecnologias de AI. Conseguimos!!!💙
